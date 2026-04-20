@@ -13,13 +13,13 @@ something needs attention. Same concept, built from scratch in Python.
 
 ## How It Works
 System Metrics (CPU, Memory, Disk)
-↓
+->
 Python script collects metrics every 60 seconds
-↓
+->
 Checks against configurable thresholds
-↓
+->
 Logs results to timestamped log file
-↓
+->
 Sends email alert if threshold is breache
 
 ## Features
